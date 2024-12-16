@@ -1,4 +1,4 @@
 15/12/2024	Sprint Planning.
-16/12/2024	Sprint Daily.
+16/12/2024	Sprint Daily (abarcar integración de diseño de portada con utilidades).
 …
 01/01/2025	Sprint Review & Sprint Retrospective.
